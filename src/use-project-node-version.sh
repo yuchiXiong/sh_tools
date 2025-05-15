@@ -1,0 +1,1 @@
+echo 'function upnv() { source ~/.nvm/nvm.sh && nvm use $(pnv) }' >> ~/.zshrc
